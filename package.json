@@ -9,6 +9,7 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@resvg/resvg-wasm": "^2.6.2",
     "date-fns": "^4.1.0",
     "lodash": "^4.17.21",
     "next": "16.1.1",
