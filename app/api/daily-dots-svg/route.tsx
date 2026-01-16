@@ -51,7 +51,7 @@ export async function GET(request: NextRequest) {
 
   // Card position
   const cardX = (width - cardWidth) / 2;
-  const cardY = height * 0.35;
+  const cardY = height * 0.38;
 
   // Build SVG elements
   const svgElements: string[] = [];
